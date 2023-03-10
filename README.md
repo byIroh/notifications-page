@@ -4,8 +4,8 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/notifications-page-vite-react-m2NwVRjXgq)
+- Live Site URL: [GitHub Pages](https://byiroh.github.io/notifications-page/)
 
 ## Table of contents
 
